@@ -1384,6 +1384,17 @@
         ]
       }
     },
+    "trademarkiq": {
+      "sha": "3af067428343a109da2f83079e50a9e25646aaff",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "trademarkiq",
+            "description": "streamable-http"
+          }
+        ]
+      }
+    },
     "unity": {
       "sha": "de668bfd2e4ece0613c331e653c8c48b03e7238d",
       "version": "0.1.8-beta",
